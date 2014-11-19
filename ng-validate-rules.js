@@ -19,23 +19,7 @@
   }];
 
   /**
-    Example usage:
-
-    ```html
-    <form name="myForm" id="myForm" novalidate>
-      <!-- Here we collect the data and add the directive(s) to validate with -->
-      <input type="password" name="password" id="password" required
-        ng-model="password"
-        sr-validate-rules="[{ description: 'At elast 8 characters', regex: '(?=.{8,})' }]">
-
-    <!-- Here we display each rule and update it's class as the value passes or fails -->
-      <ul class="pw-rules">
-        <li class="pw-rule"
-          ng-class="{'pw-rule-match': !myForm.password.$error[desc] && myForm.password.$dirty}"
-          ng-repeat="(desc, valid) in myForm.password.$validators" ng-if="desc !== 'required'">{{::desc}}</li>
-      </ul>
-    </form>
-    ```
+    Example usage: See README.md from the package repo.
   */
 
   Directive.$inject = [];
