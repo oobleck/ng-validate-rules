@@ -16,7 +16,7 @@
     "angular"
   ],
   "license": "LGPL",
-  "homepage": "https://github.com/oobleck/ng-validation-rules",
+  "homepage": "https://github.com/oobleck/ng-validate-rules",
   "private": true,
   "ignore": [
     "**/.*",
