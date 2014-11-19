@@ -5,10 +5,7 @@
     "Spencer Rhodes <spencer at spencer hyphen rhodes dot com>"
   ],
   "description": "Add more",
-  "main": [
-    "dist/ng-validate-rules.js"
-    "dist/ng-validate-rules.min.js"
-  ],
+  "main": "./ng-validate-rules.js",
   "keywords": [
     "angularjs",
     "form",
