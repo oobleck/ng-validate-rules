@@ -17,7 +17,7 @@
   ],
   "license": "LGPL",
   "homepage": "https://github.com/oobleck/ng-validate-rules",
-  "private": true,
+  "private": false,
   "ignore": [
     "**/.*",
     "node_modules",
