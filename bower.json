@@ -16,7 +16,7 @@
     "angular"
   ],
   "license": "LGPL",
-  "homepage": "github.com",
+  "homepage": "https://github.com/oobleck/ng-validation-rules",
   "private": true,
   "ignore": [
     "**/.*",
@@ -25,5 +25,7 @@
     "test",
     "tests"
   ],
-  "dependencies": {}
+  "dependencies": {
+    "angular": "~1.3.0"
+  }
 }
