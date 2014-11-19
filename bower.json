@@ -1,0 +1,32 @@
+{
+  "name": "ng-validate-rules",
+  "version": "0.0.1",
+  "authors": [
+    "Spencer Rhodes <spencer at spencer hyphen rhodes dot com>"
+  ],
+  "description": "Add more",
+  "main": [
+    "dist/ng-validate-rules.js"
+    "dist/ng-validate-rules.min.js"
+  ],
+  "keywords": [
+    "angularjs",
+    "form",
+    "validation",
+    "rules",
+    "validate",
+    "directive",
+    "angular"
+  ],
+  "license": "LGPL",
+  "homepage": "github.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {}
+}
