@@ -5,7 +5,7 @@ A lightweight directive wrapper around [AngularJS](http://www.angularjs.org) `$v
 
 This module requires [AngularJS](http://www.angularjs.org) v1.3.0+
 
-Includes basic default validation for typical password validation:
+Includes basic default validation for typical passwords:
 
 - Min length 8 chars
 - One or more uppercase letters
