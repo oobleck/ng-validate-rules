@@ -18,12 +18,10 @@ This came about from a need to display a password's validation rules and make th
 
 ## Installation
 
-For now, add this to your `bower.json` file (`bower install` coming soon!):
+#### Bower
 
-```json
-"dependencies": {
-  "ng-validate-rules": "https://github.com/oobleck/ng-validation-rules.git"
-}
+```bash
+$ bower install [--save-dev|--save] ng-validate-rules
 ```
 
 Then add this to your app's dependencies:
@@ -31,6 +29,8 @@ Then add this to your app's dependencies:
 ```js
 ['ng-validate-rules']
 ```
+
+#### Manually
 
 Or download the main file and drop wherever you need it.
 
@@ -95,7 +95,7 @@ The basic format of the rules is an array, as follows:
 
 ## TODO
 
-- [ ] Get into Bower registry
+- [x] Get into Bower registry
 - [ ] Get into ngModules registry
 - [ ] Add build & minification
 - [ ] Add tests
